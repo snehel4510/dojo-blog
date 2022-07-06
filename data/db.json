@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "blod add experiment",
+      "body": "this is a kind of demo to see if the addition of blogs via making a POST request to the json-server works or not",
+      "author": "Snehel",
+      "id": 7
+    },
+    {
+      "title": "new blog here",
+      "body": "this is awesome",
+      "author": "Ankur S",
+      "id": 8
+    },
+    {
+      "title": "histopy page",
+      "body": "to check if the blog goes to the home  page after we r done creating the blog or not",
+      "author": "Ankur S",
+      "id": 9
+    },
+    {
+      "title": "hello everyone",
+      "body": "finally the blog is complete, just one more thing that we need to set up a 404 page for displaying errors to the user in the frontend",
+      "author": "Ankur M",
+      "id": 10
+    }
+  ]
+}
